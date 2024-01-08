@@ -1,0 +1,6 @@
+﻿  Manager.cpp
+C:\Facultate\an\TAP\Lab\Lab5.1\lab5.1\lab5.1\Manager.cpp(13,11): error C2600: 'Manager::~Manager': cannot define a compiler-generated special member function (must be declared in the class first)
+C:\Facultate\an\TAP\Lab\Lab5.1\lab5.1\lab5.1\Manager.cpp(18,10): error C2600: 'Manager::Manager': cannot define a compiler-generated special member function (must be declared in the class first)
+C:\Facultate\an\TAP\Lab\Lab5.1\lab5.1\lab5.1\Manager.cpp(22,19): error C2600: 'Manager::operator =': cannot define a compiler-generated special member function (must be declared in the class first)
+  main.cpp
+  Generating Code...
