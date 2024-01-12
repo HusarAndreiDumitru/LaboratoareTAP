@@ -1,0 +1,20 @@
+﻿  lista.cpp
+C:\Facultate\an\TAP\Lab\lab3\lab3\lista.h(2,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'lista.cpp')
+  
+C:\Facultate\an\TAP\Lab\lab3\lab3\Nod.h(2,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'lista.cpp')
+  
+  main.cpp
+C:\Facultate\an\TAP\Lab\lab3\lab3\lab3.h(2,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'main.cpp')
+  
+C:\Facultate\an\TAP\Lab\lab3\lab3\lista.h(2,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'main.cpp')
+  
+C:\Facultate\an\TAP\Lab\lab3\lab3\Nod.h(2,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'main.cpp')
+  
+  Punct.cpp
+C:\Facultate\an\TAP\Lab\lab3\lab3\Punct.cpp(13,9): error C2082: redefinition of formal parameter 'c'
+  Generating Code...
